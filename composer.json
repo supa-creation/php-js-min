@@ -1,0 +1,18 @@
+{
+    "name": "supa-creation/php-js-min",
+    "description": "PHP implementation of Douglas Crockford's JSMin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Supa-creation.com",
+            "email": "contact@supa-creation.com",
+            "homepage": "http://www.supa-creation.com/"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
